@@ -10,6 +10,6 @@ Package: points2grid
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Points2Grid generates Digital Elevation Models (DEM) using a local gridding method.
+Description: Generates Digital Elevation Models (DEM) using a local gridding method.
  This package was desgined for use in PDAL's (http://pdal.io) continuous
  integration. This Debian packaging is likely incomplete and/or incorrect.
